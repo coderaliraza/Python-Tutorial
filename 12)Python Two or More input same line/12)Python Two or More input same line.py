@@ -1,0 +1,6 @@
+#name = input("Enter your Name ")
+#age = input("Enter Your Age")
+name, age, address = input("Enter Your Name and Age and Address: ").split("_")
+# print(name)
+# print(age)
+print(name + age + address)
