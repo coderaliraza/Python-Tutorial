@@ -6,5 +6,7 @@ name = input("Enter Your Name: )
 reverse = name[-1::-1]
 print(f"Reverse name is: {reverse}")
 
-
+# Bonus try is
+name = input("Enter Your Name: )
+print(f"Reverse name is: {name[-1::-1]}")
 
